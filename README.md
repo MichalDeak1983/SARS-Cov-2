@@ -2,10 +2,10 @@
 Code used to make plots for the blog article "How long does it take to die after testing positive on SARS-Cov-2?".
 
 Requiers libraries:
-  rvest
-  ggplot2
-  dplyr
-  tidyverse
+- rvest
+- ggplot2
+- dplyr
+- tidyverse
 
 Place the R files and the dat file in one directory.
 Execute first in R:
